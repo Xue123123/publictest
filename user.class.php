@@ -1,6 +1,7 @@
 <?php
 include_once "friends.class.php";
 222222222222222
+3333333333333
 require_once ROOT_PATH . "modules/mall/mall.class.php";
 class userClass extends friendsClass {
 
